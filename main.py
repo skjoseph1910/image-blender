@@ -1,9 +1,3 @@
-"""dip_hw0.py: Starter file to run howework 0"""
-
-__author__      = "Pranav Mantini"
-# revised by Zhenggang Li
-__email__ = "pmantini@uh.edu"
-__version__ = "1.0.0"
 
 import cv2
 import sys
